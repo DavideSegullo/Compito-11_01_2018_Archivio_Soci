@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526685204 source:c:\users\theda\desktop\progetti c\11_01_2018_archivio_soci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
